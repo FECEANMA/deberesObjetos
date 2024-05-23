@@ -1,0 +1,30 @@
+¿Qué es Postman?[2 de la Semana] [1.2]
+
+A.  permite a los desarrolladores de software enviar información directamente de una aplicación a otra.
+
+B.  Sirven para establecer un punto de conexión o interacción entre dos sistemas.
+
+C. Permite crear peticiones sobre APIs de una forma muy sencilla y poder probar las APIs.
+
+ANSWER: C
+
+¿Características de Postman? [1.2]
+
+A. Puede definir el color, fuente, alineación del texto, tamaño, bordes, espaciado, capas y muchas otras características.
+
+B. Permite que el usuario se mueva por cualquier sitio de Internet haciendo clic en un texto específico —hipervínculo—.
+
+C. Permite crear y enviar peticiones http a servicios REST mediante un interface gráfico.
+
+ANSWER: C
+
+¿Cómo funciona Postman? [1.2]
+
+A. Utiliza solicitudes HTTP para enviar información a una API.  
+
+B. Actúa como mensajero mandando una solicitud a un servidor, traduciendo el mensaje y entregando la respuesta al usuario.
+
+C. Sigue el patrón de diseño Modelo-Vista-Controlador (MVC), que separa claramente la lógica de presentación de los datos y la interacción del usuario.
+
+ANSWER: A
+
