@@ -1,0 +1,17 @@
+1) Nest.js es un framework de desarrollo web basado en: [1 de la Semana] [1.1]
+    a) Node.js
+    b) Nashorn
+    c) JerryScript
+    ANSWER:  a) Node.js
+
+2) NestJS está completamente escrito en: [1.1]
+    a) JavaScript
+    b) Angular
+    c) TypeScript
+    ANSWER: c) TypeScript
+
+3) NestJS emplea decoradores y metadatos para definir rutas: [1.1]
+    a) WebSockets
+    b) HTTP, controladores, servicios y otros elementos de la aplicación
+    c) HTML,JavaScript y Phyton
+    ANSWER: b) HTTP, controladores, servicios y otros elementos de la aplicación
