@@ -1,0 +1,29 @@
+¿Qué es CRUD?[3 de la Semana] [1.4]
+
+A.  Representa las cuatro operaciones básicas que se pueden realizar sobre la información almacenada en una base de datos o sistema de almacenamiento persistente.
+
+B.  Es el código utilizado para estructurar y desplegar una página web y sus contenidos.
+
+C.  Sirven para establecer un punto de conexión o interacción entre dos sistemas.
+
+ANSWER: A
+
+¿Ventajas de CRUD?[1.4]
+
+A. Permite que el usuario se mueva por cualquier sitio de Internet haciendo clic en un texto específico —hipervínculo—.
+
+B. Permite especificar un estilo repetido para un elemento una vez y usarlo varias veces, lo que simplifica el proceso de diseño y mejora la velocidad del sitio.
+
+C. Permite reunir en un solo elemento de configuración del software todas las acciones básicas que se realizan sobre una entidad de dominio.
+
+ANSWER: C
+
+¿Desventajas de CRUD? [1.4]
+
+A. Algunas personas han informado que puede tener un rendimiento inferior en comparación con otros frameworks más livianos.
+
+B. Proporcionan un amplio nivel de control sobre los datos, careciendo de un control detallado.
+
+C. Sigue el patrón de diseño Modelo-Vista-Controlador (MVC), que separa claramente la lógica de presentación de los datos y la interacción del usuario.
+
+ANSWER: B

@@ -1,0 +1,30 @@
+¿Accion general que realiza el ciclo de vida de un componenete de Angular?[6 de la Semana] [2.1]
+
+A.  Permite reunir en un solo elemento de configuración del software todas las acciones básicas que se realizan sobre una entidad de dominio.
+
+B.  Crear componentes, renderizarlos, crear y renderizar a sus hijos, actualizar y re-renderizar los componentes cuando detecta cambios, y finalmente destruirlos antes de eliminarlos.
+
+C.  Utilizar solicitudes HTTP para enviar información a una API.  
+
+ANSWER: B
+
+¿Que hace el metodo ngOnInit()? [2.1]
+
+A. Se puede utilizar para limpiar el código y desconectar los controladores de eventos.
+
+B. Permite inicializar el componente y establecer las propiedades de entrada. 
+
+C. Permite utilizar el mismo código para diferentes bases de datos, como MySQL, PostgreSQL, SQLite, MongoDB, entre otros.
+
+ANSWER: B
+
+¿Que hace el metodo ngDoCheck()? [2.1]
+
+A. Se ejecuta una sola vez, justo después de que Angular proyecte contenido externo en la vista del componente. 
+
+B. Responde después de que se verifica el contenido proyectado.
+
+C. Se usa para detectar y actuar sobre los cambios que no pueden ser detectados por Angular. 
+
+ANSWER: C
+

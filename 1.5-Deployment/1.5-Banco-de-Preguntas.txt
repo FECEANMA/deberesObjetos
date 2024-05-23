@@ -1,0 +1,30 @@
+¿Qué es Railway?[5 de la Semana] [1.5]
+
+A.  Permite reunir en un solo elemento de configuración del software todas las acciones básicas que se realizan sobre una entidad de dominio.
+
+B.  Es un framework de desarrollo web basado en Node.js que utiliza TypeScript para proporcionar una estructura de programación.
+
+C.  Es una plataforma en la nube que se utiliza para aplicaciones de construcción, envío y monitoreo.  
+
+ANSWER: C
+
+¿Características de Railway? [1.5]
+
+A. Admite múltiples bases de datos, incluidas MySQL y Postgres, permite a los usuarios configurar y administrar fácilmente bases de datos para sus proyectos. 
+
+B. Proporciona una manera fácil de implementar proyectos desarrollados en Python con el marco Flask. 
+
+C. Permite utilizar el mismo código para diferentes bases de datos, como MySQL, PostgreSQL, SQLite, MongoDB, entre otros.
+
+ANSWER: A
+
+¿A que se refiere Deployment en Railway? [1.5]
+
+A. Se refiere al ealizar acciones específicas en diferentes momentos del ciclo de vida de un componente en Angular  
+
+B. Se refiere a proporcionar hooks del ciclo de vida para acceder a estos momentos clave y realizar acciones específicas en cada etapa. 
+
+C. Se refiere al proceso de implementar y poner en funcionamiento un proyecto en la plataforma de Railway, utilizando las herramientas y configuraciones proporcionadas por la plataforma.
+
+ANSWER: C
+

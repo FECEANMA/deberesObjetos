@@ -1,0 +1,30 @@
+¿Qué es Prisma?[3 de la Semana] [1.3]
+
+A.  Herramienta de mapeo de objetos relacionales diseñado para facilitar la interacción con bases de datos en aplicaciones TypeScript y JavaScript..
+
+B.  Permite reunir en un solo elemento de configuración del software todas las acciones básicas que se realizan sobre una entidad de dominio.
+
+C.  Herramienta que simplifica y acelera el proceso de desarrollo de API, lo que permite probar y depurar sus API de manera efectiva. 
+
+ANSWER: A
+
+¿Características de Prisma? [1.3]
+
+A. Proporciona una manera fácil de implementar proyectos desarrollados en Python con el marco Flask. 
+
+B. Permite que el usuario se mueva por cualquier sitio de Internet haciendo clic en un texto específico —hipervínculo—.
+
+C. Permite utilizar el mismo código para diferentes bases de datos, como MySQL, PostgreSQL, SQLite, MongoDB, entre otros.
+
+ANSWER: C
+
+¿Que es TyoeORM? [1.3]
+
+A. Permiten realizar acciones específicas en diferentes momentos del ciclo de vida de un componente en Angular  
+
+B. Es una librería que los desarrolladores utilizan para crear bases de datos y manipular sus datos sin la necesidad de conocer o usar SQL.
+
+C. Utiliza solicitudes HTTP para enviar información a una API.
+
+ANSWER: B
+
